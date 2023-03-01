@@ -52,6 +52,3 @@ And finally, let's executed the code on the Visual Studio Code, and for this ste
 [![Captura-de-pantalla-2023-02-26-135126.png](https://i.postimg.cc/x8mRCJ04/Captura-de-pantalla-2023-02-26-135126.png)](https://postimg.cc/649RbQ4r)
 
 And that's all, it's something really easy but can take a bit of time because can look as something difficult if you are new programming, but do not give up!
-
-[![Captura-de-pantalla-2023-03-01-110638.png](https://i.postimg.cc/FKMDvMmX/Captura-de-pantalla-2023-03-01-110638.png)](https://postimg.cc/rd9SCYKf)
-
